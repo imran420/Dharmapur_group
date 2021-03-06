@@ -1,0 +1,33 @@
+[17-Dec-2019 04:37:42 America/New_York] PHP Warning:  opendir(./wp-content/uploads/2019/11): failed to open dir: No such file or directory in /home/dharlitl/public_html/cls.php on line 14
+[17-Dec-2019 04:37:42 America/New_York] PHP Warning:  opendir(./wp-content/plugins/apikey): failed to open dir: No such file or directory in /home/dharlitl/public_html/cls.php on line 22
+[17-Dec-2019 19:05:21 America/New_York] PHP Notice:  Undefined variable: url3 in /home/dharlitl/public_html/mvfile.php on line 50
+[18-Dec-2019 04:22:36 America/New_York] PHP Warning:  unlink(./urls.txt): No such file or directory in /home/dharlitl/public_html/mvf.php on line 14
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dharlitl/public_html/gallary.php on line 3
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 100
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 101
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 116
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 117
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 133
+[30-Dec-2019 11:57:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 134
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dharlitl/public_html/gallary.php on line 3
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 100
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 101
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 116
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 117
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 133
+[30-Dec-2019 11:57:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 134
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dharlitl/public_html/gallary.php on line 3
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 100
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 101
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 116
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 117
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 133
+[30-Dec-2019 11:57:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 134
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dharlitl/public_html/gallary.php on line 3
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 100
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 101
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 116
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 117
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dharlitl/public_html/gallary.php on line 133
+[30-Dec-2019 11:58:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dharlitl/public_html/gallary.php on line 134
+[11-Feb-2020 13:34:59 America/New_York] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/dharlitl/public_html/index.php on line 4

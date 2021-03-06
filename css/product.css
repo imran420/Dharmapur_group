@@ -1,0 +1,194 @@
+.body
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.product
+{
+	width: 100%;
+	/*background-color: red;*/
+	padding-top: 1px;
+	padding-bottom: 0px;
+}
+
+.product h1
+{
+	font-family: 'Playfair Display', serif;
+	font-size: 60px;
+	text-align: center;
+	font-weight: 800;
+	/*background-color: red;*/
+}
+
+.border
+{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	margin-top: -20px;
+	/*background-color: red;*/
+}
+
+.border img
+{
+	width: 300px;
+	height: 30px;
+	margin: auto;
+	display: block;
+}
+
+.product_section
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.product_section2
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.product_section4
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.product_section_info
+{
+	height: 70vh;
+	width: 50%;
+	/*background-color: red;*/
+}
+
+.product_section_info_text
+{
+	width: 60%;
+	height: 60%;
+	margin-left: 30%;
+	margin-top: 10%;
+}
+
+.product_section_info_text h1
+{
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	font-weight: 800;
+	text-align: left;
+}
+
+.product_section_info_text ul li
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.product_section_info_text1
+{
+	width: 60%;
+	height: 60%;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+.product_section_info_text1 h1
+{
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	font-weight: 800;
+	text-align: left;
+}
+
+.product_section_info_text1 ul li
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+
+.product_section_pic
+{
+	height: 68vh;
+	width: 50%;
+	/*background-color: green;*/
+}
+
+.product_section_pic img
+{
+	height: 300px;
+	width: 450px;
+	margin-top: 15%;
+	margin-left: 20%;
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 480px) 
+{
+
+.product_section2
+{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column-reverse;
+}
+
+.product_section4
+{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column-reverse;
+}
+
+.product h1
+{
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+	text-align: center;
+	font-weight: 800;
+	/*background-color: red;*/
+}
+.product_section_info
+{
+	height: 100%;
+	width: 100%;
+	/*background-color: red;*/
+}
+
+.product_section_info_text
+{
+	width: 80%;
+	height: 60%;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.product_section_info_text1
+{
+	width: 80%;
+	height: 60%;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+
+.product_section_pic
+{
+	height: 100%;
+	width: 100%;
+	/*background-color: green;*/
+}
+
+.product_section_pic img
+{
+	height: 170px;
+	width: 250px;
+	margin-top: 15%;
+	margin-left: 15%;
+}
+
+}

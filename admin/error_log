@@ -1,0 +1,2 @@
+[12-Jan-2020 00:42:28 America/New_York] PHP Notice:  Undefined index: email in /home/dharlitl/public_html/admin/login.php on line 13
+[12-Jan-2020 00:42:28 America/New_York] PHP Notice:  Undefined index: password in /home/dharlitl/public_html/admin/login.php on line 13

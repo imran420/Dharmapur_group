@@ -1,0 +1,123 @@
+.footer_section
+{
+/*	height: 100%;
+	width: 100%;*/
+	background-color: #363636;
+}
+
+.footer
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footer_add
+{
+	height: 200px;
+	width: 33.33%;
+	/*background-color: red;*/
+}
+
+.footer_add h1
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: right;
+	padding-top: 14%;
+	color: white;
+}
+
+.footer_add p
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 12px;
+	text-align: right;
+	color: white;
+}
+
+.footer_logo
+{
+	height: 200px;
+	width: 33.33%;
+	/*background-color: yellow;*/
+	text-align: center;
+}
+
+.footer_logo img
+{
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: auto;
+	padding-top: 12%;
+}
+
+.footer_social
+{
+	height: 200px;
+	width: 33.33%;
+	/*background-color: green;*/
+	text-align: left;
+}
+
+.footer_social i
+{
+	padding-top: 18%;
+	margin-right: 20px;
+	color: white;
+}
+
+.footer_copy
+{
+	width: 100%;
+	height:14px;
+	background-color: white;
+}
+
+.footer_copy p
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) 
+{
+.footer_social
+{
+	height: 100px;
+	width: 100%;
+	/*background-color: green;*/
+	text-align: center;
+}
+.footer_add
+{
+	height: 100px;
+	width: 100%;
+	/*background-color: green;*/
+	text-align: left;
+}
+
+.footer_add h1
+{
+	text-align: center;
+}
+
+.footer_add p
+{
+	text-align: center;
+}
+
+.footer_logo
+{
+	height: 100px;
+	width: 100%;
+	/*background-color: green;*/
+	text-align: left;
+}
+.footer_copy p
+{
+	font-size: 10px;
+}
+}
